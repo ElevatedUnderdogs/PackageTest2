@@ -1,3 +1,3 @@
-struct MyPackage1 {
+public struct MyPackage1 {
     var text = "wow, we doing it!!"
 }
